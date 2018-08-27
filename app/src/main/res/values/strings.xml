@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EditTextMaskSample</string>
+    <string name="phone">Phone</string>
+    <string name="cnic_hint">99999-9999999-9</string>
+    <string name="cnic">CNIC</string>
+    <string name="phone_hint">(+92) 399-99999999</string>
 </resources>
