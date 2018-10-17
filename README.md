@@ -1,5 +1,8 @@
 # MaskedEditText
 ### Usage
+
+![Install the app to check image](https://user-images.githubusercontent.com/42740495/47081704-db9daf00-d224-11e8-8a60-92a0b2f8da48.jpeg)
+
 ##### Gradle
 
     dependencies {
@@ -43,7 +46,6 @@ mask:mask="#####-#######-#"
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
        http://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
