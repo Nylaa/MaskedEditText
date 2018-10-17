@@ -1,7 +1,8 @@
 # MaskedEditText
-### Usage
 
 ![Install the app to check image](https://user-images.githubusercontent.com/42740495/47081704-db9daf00-d224-11e8-8a60-92a0b2f8da48.jpeg)
+
+### Usage
 
 ##### Gradle
 
